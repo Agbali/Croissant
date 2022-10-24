@@ -1,0 +1,26 @@
+h1{
+    font-size: 70px;
+}
+
+p{
+    font-size: 2rem;
+}
+.mainPage{
+    margin: 10 auto;
+    padding: 0;
+    text-align: center;
+}
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
